@@ -1,5 +1,5 @@
 {
-      "title": "B",
+      "title": "dashboard",
       "hits": 0,
       "description": "",
       "panelsJSON": "[{\"col\":1,\"id\":\"IRQ\",\"row\":5,\"size_x\":3,\"size_y\":2,\"type\":\"visualization\"},{\"col\":4,\"id\":\"Memory\",\"row\":5,\"size_x\":3,\"size_y\":2,\"type\":\"visualization\"},{\"col\":7,\"id\":\"PS\",\"row\":7,\"size_x\":6,\"size_y\":2,\"type\":\"visualization\"},{\"col\":1,\"id\":\"Ping-Google\",\"row\":7,\"size_x\":6,\"size_y\":2,\"type\":\"visualization\"},{\"id\":\"System-Loadavg\",\"type\":\"visualization\",\"size_x\":6,\"size_y\":2,\"col\":7,\"row\":5}]",
@@ -10,4 +10,4 @@
       "kibanaSavedObjectMeta": {
         "searchSourceJSON": "{\"filter\":[{\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"*\"}}}]}"
       }
-    }
+}
