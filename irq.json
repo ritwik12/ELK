@@ -1,4 +1,3 @@
-
 {
     "title" : "IRQ",
     "visState" : "{\"title\":\"IRQ\",\"type\":\"timelion\",\"params\":{\"expression\":\".es(index=satellite*, q=\\\"plugin:\\\\\\\"irq\\\\\\\" AND collectd_type:\\\\\\\"irq\\\\\\\"\\\", metric=\\\"avg:value\\\", timefield=\\\"@timestamp\\\").fit(average).label('IRQ')\",\"interval\":\"auto\"},\"aggs\":[],\"listeners\":{}}",
@@ -8,5 +7,4 @@
     "kibanaSavedObjectMeta" : {
       "searchSourceJSON" : "{\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[]}"
     }
-  }
-
+}
